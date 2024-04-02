@@ -98,6 +98,8 @@ For Submission, proposal authors are required to:
 
 If a proposal does not pass _Submission_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community. Please include a note at the top of the resubmitted proposal explaining why it is being resubmitted and explitely list any changes that were made.
 
+> Please reach out to a Governance Facilitator (@shelb_ee or @abbey) on Discord for support drafting your proposal or with any questions regarding the proposal process! 
+
 # Proposal Cycles
 
 Proposals are reviewed in **monthly cycles** to sync voting periods and establish a manageable cadence for governance participants. 
