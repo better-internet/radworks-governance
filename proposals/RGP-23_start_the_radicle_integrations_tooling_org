@@ -1,6 +1,6 @@
 If executed, this proposal will:
 
-Transfer 178 494.31 USDC and 80 488.70 RAD from the Radworks Treasury to a multi-sig controlled by the Radicle Integrations & Tooling Org to support the remainder of our 2024 development work on Radicle.
+Transfer 175 000 USDC and 66 114.79 RAD from the Radworks Treasury to a multi-sig controlled by the Radicle Integrations & Tooling Org to support the remainder of our 2024 development work on Radicle.
 
 Notes
 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 is the USDC contract (https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48).
@@ -9,6 +9,6 @@ Notes
 0xBC60231C54710B018e3a5b00d9D9c4f99C581dFc is the Radicle Integrations & Tooling Multisig
 
 ACTIONS
-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 0 "transfer(address,uint256)" 0xBC60231C54710B018e3a5b00d9D9c4f99C581dFc 178494310000
-0x31c8eacbffdd875c74b94b077895bd78cf1e64a3 0 "transfer(address,uint256)" 0xBC60231C54710B018e3a5b00d9D9c4f99C581dFc 80488700000000000000000
+0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 0 "transfer(address,uint256)" 0xBC60231C54710B018e3a5b00d9D9c4f99C581dFc 175000000000
+0x31c8eacbffdd875c74b94b077895bd78cf1e64a3 0 "transfer(address,uint256)" 0xBC60231C54710B018e3a5b00d9D9c4f99C581dFc 66114790000000000000000
 
