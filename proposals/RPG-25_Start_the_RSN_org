@@ -1,0 +1,13 @@
+If executed, this proposal will:
+
+    If executed, this proposal will transfer 193 381 RAD from the Radworks Treasury to the RSN Org multi-sig.
+
+Notes
+The RAD amount requested has been updated to reflect the price of the last thirty days.
+
+    0x31c8eacbffdd875c74b94b077895bd78cf1e64a3 is the RAD contract (https://etherscan.io/token/0x31c8eacbffdd875c74b94b077895bd78cf1e64a3).
+    0x8da8f82d2bbdd896822de723f55d6edf416130ba is the Radworks Treasury address.
+    0x40E985f47e89ad88A7863F6DAb60A04118193932 is the RSN multi-sig
+
+ACTIONS
+0x31c8eacbffdd875c74b94b077895bd78cf1e64a3 0 "transfer(address,uint256)" 0x40E985f47e89ad88A7863F6DAb60A04118193932 193381000000000000000000
