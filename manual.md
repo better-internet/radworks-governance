@@ -116,6 +116,8 @@ Proposals are reviewed in **monthly cycles** to sync voting periods and establis
 ### Proposal Review Calls
 Proposal Reviews are monthly calls take place on the second Wednesday of each month. These calls are a time for proposal authors to discuss their active proposals and answer questions from the community. The calls will be recorded and [archived](https://www.youtube.com/playlist?list=PLUUjDC9sOrpktWjO7jNFwsisK0vi5d_Tx) for reference. _Proposal authors are expected to make an effort to attend these calls and should come prepared to answer questions and discuss their proposal with attendees._
 
+#### Voting Extension
+While not an official part of the governance, this [Voting Extension process](https://community.radworks.org/t/feedback-requested-voting-extension-mechanism/3542) has been previously utilized by authors seeking more time to submit proposals for on-chain governance. If additional time is needed during a given cycle, please refer to this procedure.
 
 # Voting
 
