@@ -1,0 +1,26 @@
+If executed, this proposal will:
+- Execute the upgrade from Radworks’ current governance contracts (Compound Governor Alpha) to Open Zeppelin Governor with the assistance of the ScopeLift team.
+- Adjust the voting delay from 1 block to 24 hrs
+- Pay the ScopeLift team the remainder of their fee to execute the contracts ($10k worth of $RAD)
+
+Notes
+Current Compound Alpha contracts: https://github.com/radicle-dev/radicle-contracts/blob/master/contracts/Governance/Governor.sol
+0xD64D01D04498bFc60f04178e0B62a757C5048212 is the new Governor (Radworks Governor Bravo) being deployed 
+0x31c8eacbffdd875c74b94b077895bd78cf1e64a3 is the RAD contract (https://etherscan.io/token/0x31c8eacbffdd875c74b94b077895bd78cf1e64a3).
+0x8da8f82d2bbdd896822de723f55d6edf416130ba is the Radworks Treasury address.
+0x5C04E7808455ee0e22c2773328C151d0DD79dC62 is the ScopeLift multisig
+
+Note: The RAD amount requested has been updated to reflect the price of the last thirty days.
+
+ACTIONS
+# set pending admin of Radworks timelock to new governor
+0x8dA8f82d2BbDd896822de723F55D6EdF416130ba
+"setPendingAdmin(address)"
+0xD64D01D04498bFc60f04178e0B62a757C5048212
+
+# accept timelock admin role from new governor
+0xD64D01D04498bFc60f04178e0B62a757C5048212
+"__acceptAdmin()"
+
+# Transfer RAD to scopelift.eth
+0x31c8eacbffdd875c74b94b077895bd78cf1e64a3 0 "transfer(address,uint256)" 0x5C04E7808455ee0e22c2773328C151d0DD79dC62 8065000000000000000000
