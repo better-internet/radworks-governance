@@ -8,4 +8,4 @@
 | **Request for Comments:** | [Link to *RFC*] |
 | **Formal Review:** | [Link to *Formal Review*] |
 
-> IF APPLICABLE, PLEASE INCLUDE THE PROPOSAL CODE (see [template](/templates/07-proposal-code-template.md))
+> IF APPLICABLE, PLEASE INCLUDE THE PROPOSAL CODE (see [template](/templates/07-proposal-code-template.md))!
