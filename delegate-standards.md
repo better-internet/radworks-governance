@@ -1,4 +1,4 @@
-All community members acting as delegates within the Radicle community are expected to adhere to the following set of standards in addition to the [Code of Conduct](https://docs.radworks.org/community/code-of-conduct). Any violation of these standards will be evaluated by Radicle community leaders using the Community Impact Guidelines outlined in the Conduct.
+All community members acting as delegates within the Radworks community are expected to adhere to the following set of standards in addition to the [Code of Conduct](https://docs.radworks.org/community/code-of-conduct). Any violation of these standards will be evaluated by Radworks community leaders using the Community Impact Guidelines outlined in the Conduct.
 
 In addition to the general community standards outlined in this code of conduct, community delegates are held to a set of more specific standards that support healthy governance.
 
