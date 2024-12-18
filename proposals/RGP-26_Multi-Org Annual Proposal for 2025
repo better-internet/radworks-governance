@@ -1,6 +1,6 @@
 If executed, this proposal will:
 
-    If executed, this proposal will transfer 1,833,676 USDC and 302,517 RAD from the Radworks Treasury to the Drips Org multi-sig; 2,155,205.70 USDC from the Radworks Treasury to the Radworks Org multi-sig; and 10,000 RAD from the Radworks Treasury to the Foundation Org multi-sig.
+    If executed, this proposal will transfer 1,833,676 USDC and 302,517 RAD from the Radworks Treasury to the Drips Org multi-sig; 2,155,206 USDC from the Radworks Treasury to the Radworks Org multi-sig; and 10,000 RAD from the Radworks Treasury to the Foundation Org multi-sig.
 
 Notes
 The RAD amount requested has been updated to reflect the price of the last thirty days.
@@ -12,7 +12,7 @@ The RAD amount requested has been updated to reflect the price of the last thirt
     0x85C6CeEeb8E1A2E49D23cE8b9E0e59413FDb8bbB is the Foundation Org multi-sig.
 
 ACTIONS
-0x31c8eacbffdd875c74b94b077895bd78cf1e64a3 0 "transfer(address,uint256)" 0xcC7d34C76A9d08aa0109F7Bae35f29C1CE35355A 302517000000000000000000000000000000000000
-0x31c8eacbffdd875c74b94b077895bd78cf1e64a3 0 "transfer(address,uint256)" 0x85C6CeEeb8E1A2E49D23cE8b9E0e59413FDb8bbB 10000000000000000000000000000000000000000
+0x31c8eacbffdd875c74b94b077895bd78cf1e64a3 0 "transfer(address,uint256)" 0xcC7d34C76A9d08aa0109F7Bae35f29C1CE35355A 302517000000000000000000
+0x31c8eacbffdd875c74b94b077895bd78cf1e64a3 0 "transfer(address,uint256)" 0x85C6CeEeb8E1A2E49D23cE8b9E0e59413FDb8bbB 10000000000000000000000
 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 0 "transfer(address,uint256)" 0xcC7d34C76A9d08aa0109F7Bae35f29C1CE35355A 1375257000000
-0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 0 "transfer(address,uint256)" 067c100d62b14cc60cb258cab73d3f5f473694a3b  2155205700000
+0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 0 "transfer(address,uint256)" 0x67C100D62B14cC60CB258CAb73D3f5f473694A3B 2155206000000
