@@ -1,6 +1,6 @@
 > ℹ️ In an effort to provide consistent information and updates to our community, the Governance Committee has created this template to help Org leads prepare the quarterly updates that will be presented during the Quarterly Community Call. There should also be a written version of these updates posted on the community forum under “[Quarterly Org Updates](https://radicle.community/c/announcements/monthly-core-team-community-updates/35).” 
 
-> The updates should reference initiatives and strategy outlined in their last annual Org proposal. If you have feedback on this template please reach out to Abbey or Shelby!
+> The updates should reference initiatives and strategy outlined in their last annual Org proposal. If you have feedback on this template please reach out to Sally or Ange!
 
 
 ## TITLE: XX Org - QX 202X Update
