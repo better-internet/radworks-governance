@@ -98,8 +98,6 @@ For Submission, proposal authors are required to:
 
 If a proposal does not pass _Submission_, it can be resubmitted in the next governance cycle. The new draft should take into account feedback from the community. Please include a note at the top of the resubmitted proposal explaining why it is being resubmitted and explitely list any changes that were made.
 
-> Please reach out to a Governance Facilitator (@shelb_ee or @abbey) on Discord for support drafting your proposal or with any questions regarding the proposal process! 
-
 # Proposal Cycles
 
 Proposals are reviewed in **monthly cycles** to sync voting periods and establish a manageable cadence for governance participants. 
@@ -159,7 +157,7 @@ Once delegation is completed, the voting weight of the RAD can be used to vote. 
 
 ## Never miss a vote! 🤳
 
-The best way to get live governance updates is by following the Radworks Twitter ([@radworks_](https://twitter.com/radworks_)) or follow the [📢 announcements](https://discord.gg/xaHa6XEQ) channel on the Radworks Discord server. 
+The best way to get live governance updates is by following the [📢 announcements](https://discord.gg/xaHa6XEQ) channel on the Radworks Discord server. 
 
 You can subscribe to our [community calendar](https://calendar.google.com/calendar/u/0?cid=Y19kMmY5YzQxYWE1OTgxMWI5OGMzNDNjNjM5M2U5OWYwZmM4MjdmMjBlNjNjMmNlODk0YTcxNzczZmNkNTc3OGY1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) that includes reminders for Quarterly Community Calls, monthly Proposal Review calls and each week of the monthly governance cycle.
 
